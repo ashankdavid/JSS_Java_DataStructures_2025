@@ -1,4 +1,4 @@
-package DataStructures.Graph.AdjMat;
+package DataStructures.Graph.Representation.AdjMat;
 
 public class Graph {
     int V;

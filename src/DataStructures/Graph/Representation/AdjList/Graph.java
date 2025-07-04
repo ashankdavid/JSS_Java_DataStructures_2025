@@ -1,4 +1,4 @@
-package DataStructures.Graph.AdjList;
+package DataStructures.Graph.Representation.AdjList;
 
 import java.util.ArrayList;
 import java.util.Scanner;
